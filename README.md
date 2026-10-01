@@ -1,23 +1,30 @@
-# 🚲 Bike Sales Dashboard | Excel
+# 🚲 Bike Sales Dashboard – Excel Project
 
 ## 📌 Project Overview
-This project analyzes customer data to understand the factors influencing
-bike purchasing behavior.
 
-Using Microsoft Excel, I cleaned and prepared the dataset, performed analysis
-with Pivot Tables and lookup functions, and developed an interactive dashboard
-to visualize customer purchasing patterns.
+This project analyzes customer data to understand bike purchasing behavior
+across different customer segments.
+
+I used Microsoft Excel to clean and prepare the data, perform analysis using
+Pivot Tables and lookup functions, and build an interactive dashboard to
+visualize purchasing patterns.
+
+## 📊 Dashboard Preview
+
+![Bike Sales Dashboard](Bike_sales_Dashboard.png)
 
 ## 🎯 Project Objectives
-- Analyze bike purchasing behavior across different customer segments
-- Compare average income and bike purchase decisions
+
+- Analyze customer bike purchasing behavior
+- Compare average income by gender and purchase status
 - Analyze purchasing patterns across different age groups
 - Examine the relationship between commute distance and bike purchases
-- Build an interactive dashboard for easy data exploration
+- Explore customer segments using interactive filters
 
-## 🛠️ Tools & Excel Skills
+## 🛠️ Tools & Skills Used
+
 - Microsoft Excel
-- Data Cleaning & Preparation
+- Data Cleaning
 - Pivot Tables
 - Pivot Charts
 - VLOOKUP
@@ -27,57 +34,50 @@ to visualize customer purchasing patterns.
 - Data Visualization
 - Interactive Dashboard Development
 
-## 📊 Dashboard Analysis
+## 🔍 Dashboard Analysis
 
 ### 💰 Average Income Per Purchase
 Analyzed average income by gender and compared customers who purchased
 a bike with those who did not.
 
 ### 👥 Customer Age Brackets
-Compared bike purchasing behavior across different age groups to identify
-customer segments with higher purchase activity.
+Analyzed bike purchasing behavior across different age groups to understand
+which customer segments showed higher purchase activity.
 
-### 🚗 Commute Distance
-Analyzed how commute distance relates to customers' bike purchasing decisions.
+### 🚲 Commute Distance
+Compared bike purchase decisions across different commute-distance groups.
 
-## 🎛️ Interactive Filters
-The dashboard includes interactive slicers for:
+### 🎛️ Interactive Filters
+The dashboard includes slicers for:
 
 - Marital Status
 - Region
 - Education
 
-These filters allow users to dynamically explore customer segments and
-update the dashboard visualizations.
+These slicers allow users to dynamically filter the dashboard and explore
+different customer segments.
 
 ## 📁 Workbook Structure
 
-| Sheet | Purpose |
+| Sheet | Description |
 |---|---|
-| `bike_buyers` | Original dataset |
+| `bike_buyers` | Original customer dataset |
 | `Working Sheet` | Data cleaning and preparation |
-| `Pivot Table` | Pivot-based analysis |
-| `Final Dashboard` | Interactive Excel dashboard |
+| `Pivot Table` | Pivot Tables used for analysis |
+| `Final Dashboard` | Final interactive Excel dashboard |
 
-## 📷 Dashboard Preview
+## 💡 Key Skills Demonstrated
 
-![Bike Sales Dashboard](dashboard.png)
-
-## 💡 Skills Demonstrated
-This project demonstrates my ability to:
-
-- Clean and prepare data in Excel
-- Use VLOOKUP and XLOOKUP for data retrieval
-- Analyze datasets using Pivot Tables
-- Create Pivot Charts and visualizations
-- Build interactive dashboards using slicers
-- Analyze customer and sales-related data
-- Present analytical results in a clear visual format
+- Cleaning and preparing data in Excel
+- Using VLOOKUP and XLOOKUP
+- Creating and analyzing Pivot Tables
+- Creating Pivot Charts
+- Building interactive slicers
+- Designing an Excel dashboard
+- Analyzing customer purchasing patterns
+- Presenting insights through data visualization
 
 ## 👤 Author
 
 **Md. Ove Rahman**  
 Data Analyst | Business Intelligence (BI) Analyst
-
-- GitHub: `ovir18`
-- Portfolio: `ovir18.github.io`
